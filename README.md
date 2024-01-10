@@ -2,11 +2,11 @@
 
 ## В этом репозитории хранятся мои проектные работы, которые я делела на курсе "Аналитик данных" в Яндекс Практикуме
 
-| #| Название проекта              | Описание проекта           | Используемые библиотеки                     |
+| #| Название проекта              | Описание проекта           | Используемые инструменты                     |
 |-| -------------------- | --------------------- |---------------------------|
 |1 | [Музыка больших городов](https://github.com/hgyggnmkd/Portfolio/tree/main/01.%20Basic%20Python) | Для музыкального сервиса сравниваю поведение и предпочтения пользователей двух столиц — Москвы и Санкт-Петербурга. | Python, pandas |
 |2 | [Исследование надежности заемщиков](https://github.com/hgyggnmkd/Portfolio/tree/main/02.%20Data%20Preprocessing) | Анализирую данные о клиентах банка и определяем долю кредитоспособных по различным параметрам | Python, pandas |
-|3 | [Исследование объявлений о продаже квартир](https://github.com/hgyggnmkd/Portfolio/tree/main/03.%20Research%20Data%20Analysis) | Исследую рынок недвижимости в Санкт-Петербурге и Ленинградской области. Выявляю ценообразующие параметры | pandas, Matplotlib |
+|3 | [Исследование объявлений о продаже квартир](https://github.com/hgyggnmkd/Portfolio/tree/main/03.%20Research%20Data%20Analysis) | Исследую рынок недвижимости в Санкт-Петербурге и Ленинградской области. Выявляю ценообразующие параметры | Python, pandas, Matplotlib |
 |4 | [Определение перспективного тарифа для телеком-компании](https://github.com/pancyrev/yandex_practicum_data_analysis_projects/blob/main/04.%20Statistical%20data%20analysis/) |Оптимизируем воронки продаж для ускорения работы отдела маргетинга | pandas, numpy, pyplot, scipy |
 |5 | [Анализ рынка компьютерных игр](https://github.com/pancyrev/yandex_practicum_data_analysis_projects/blob/main/05.%20Main%20Project%20-%201/)  |Находим закономерности в данных о продаже игры |  pandas, numpy, pyplot, scipy, seaborn |
 |6 | [Базовый SQL](https://github.com/pancyrev/yandex_practicum_data_analysis_projects/blob/main/06.%20Basic%20SQL/)  |Пишем запросы к базе данных, в которых хранятся данные по венчурным инвесторам, стартапам и инвестициям в них | SQL |
