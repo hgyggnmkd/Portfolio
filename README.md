@@ -11,3 +11,4 @@
 |5 | [Анализ рынка компьютерных игр](https://github.com/hgyggnmkd/Portfolio/tree/main/05.%20First%20main%20project)  |Нахожу определяющие успешность игры закономерности в данных о продаже игры |  Python, pandas, Matplotlib, numpy, seaborn, scipy |
 |6 | [Базовый SQL](https://github.com/pancyrev/yandex_practicum_data_analysis_projects/blob/main/06.%20Basic%20SQL/)  |Пишем запросы к базе данных, в которых хранятся данные по венчурным инвесторам, стартапам и инвестициям в них | SQL |
 |7 | [Анализ бизнес-показателей](https://github.com/hgyggnmkd/Portfolio/tree/main/07.%20Business%20Metrics%20Analysis)  |Разобираюсь в причинах убытков на рекламу и помогаю компании выйти в плюс |  Python, pandas, Matplotlib, numpy, datetime, seaborn |
+|8 | [Построение дашбордов в Tableau](https://github.com/hgyggnmkd/Portfolio/tree/main/07.%20Business%20Metrics%20Analysis)  | |  Tableau |
