@@ -14,7 +14,6 @@
 - numpy
 - datetime
 - scipy
-- scipy.stats
 
 ## Итоги исследования
 
