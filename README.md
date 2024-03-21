@@ -12,3 +12,5 @@
 |6 | [Базовый SQL](https://github.com/pancyrev/yandex_practicum_data_analysis_projects/blob/main/06.%20Basic%20SQL/)  |Пишу запросы к базе данных, в которых хранятся данные по венчурным инвесторам, стартапам и инвестициям в них | SQL |
 |7 | [Анализ бизнес-показателей](https://github.com/hgyggnmkd/Portfolio/tree/main/07.%20Business%20Metrics%20Analysis)  |Разобираюсь в причинах убытков на рекламу и помогаю компании выйти в плюс |  Python, pandas, Matplotlib, numpy, datetime, seaborn |
 |8 | [Построение дашбордов в Tableau](https://github.com/hgyggnmkd/yandex_practicum/tree/main/08.%20Building%20dashboards%20in%20Tableau)  | Исследую историю TED-конференций с помощью Tableau |  Tableau |
+|9 | [Продвинутый SQL](https://github.com/hgyggnmkd/yandex_practicum/tree/main/09.%20Advanced%20SQL)  | Исследую базу данных StackOverflow |  SQL |
+|10 | [Принятие решений в бизнесе](https://github.com/hgyggnmkd/yandex_practicum/tree/main/10.%20Business%20decision-making)  | Приоритизирую гипотезы, запускаю A/B-тест и анализирую результаты |  pandas, matplotlib, numpy, scipy, scipy.stats |
